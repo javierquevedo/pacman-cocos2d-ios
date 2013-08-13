@@ -11,12 +11,16 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+About this PacMan
+---------------
+Written in Objective-C with Cocos 2.0-rc1.
+Currently it only supports non-retina iPad, and uses an on-screen virtual keypad to control the player.
+
+[!PacMan](senc01a.github.com/pacman-cocos2d-ios/assets/screenshot.png)
 
 Acknowledgements
-==================
-Audio effects
-http://www.classicgaming.cc/classics/pacman/sounds.php
-Graphics
-http://www.raywenderlich.com
+---------------
+- Audio effects http://www.classicgaming.cc/classics/pacman/sounds.php
+- Graphics http://www.raywenderlich.com
 
 
