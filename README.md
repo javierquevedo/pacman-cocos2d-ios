@@ -16,7 +16,7 @@ About this PacMan
 Written in Objective-C with Cocos 2.0-rc1.
 Currently it only supports non-retina iPad, and uses an on-screen virtual keypad to control the player.
 
-[!PacMan](https://raw.github.com/senc01a/pacman-cocos2d-ios/master/Assets/screenshot.png)
+![PacMan](https://raw.github.com/senc01a/pacman-cocos2d-ios/master/Assets/screenshot.png)
 
 Acknowledgements
 ---------------
